@@ -108,7 +108,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{1538AEF2-855A-4DC0-8E16-CAA30CB7D095}</Property>
-				<Property Name="Bld_version.build" Type="Int">267</Property>
+				<Property Name="Bld_version.build" Type="Int">275</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">直流标准源.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/直流标准源/直流标准源.exe</Property>
@@ -118,7 +118,7 @@
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/直流标准源/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/我的电脑/logo32x32x16.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{D350E2B4-B685-46BE-A61C-A7F265E0DBD9}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{B800B63E-538C-4CDC-BF96-146EE2BDCC55}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].Container.applyInclusion" Type="Bool">true</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
@@ -129,6 +129,12 @@
 				<Property Name="Source[10].itemID" Type="Ref">/我的电脑/秒转分.vi</Property>
 				<Property Name="Source[10].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[10].type" Type="Str">VI</Property>
+				<Property Name="Source[11].Container.applyInclusion" Type="Bool">true</Property>
+				<Property Name="Source[11].Container.depDestIndex" Type="Int">0</Property>
+				<Property Name="Source[11].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[11].itemID" Type="Ref">/我的电脑/table</Property>
+				<Property Name="Source[11].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[11].type" Type="Str">Container</Property>
 				<Property Name="Source[2].Container.applyInclusion" Type="Bool">true</Property>
 				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[2].itemID" Type="Ref">/我的电脑/SubVI</Property>
@@ -162,7 +168,7 @@
 				<Property Name="Source[9].itemID" Type="Ref">/我的电脑/表格行数.vi</Property>
 				<Property Name="Source[9].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[9].type" Type="Str">VI</Property>
-				<Property Name="SourceCount" Type="Int">11</Property>
+				<Property Name="SourceCount" Type="Int">12</Property>
 				<Property Name="TgtF_companyName" Type="Str">深圳市星龙科技股份有限公司</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">DCSource</Property>
 				<Property Name="TgtF_internalName" Type="Str">DCSource</Property>
