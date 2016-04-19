@@ -108,7 +108,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{1538AEF2-855A-4DC0-8E16-CAA30CB7D095}</Property>
-				<Property Name="Bld_version.build" Type="Int">292</Property>
+				<Property Name="Bld_version.build" Type="Int">295</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">直流标准源.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/直流标准源/直流标准源.exe</Property>
