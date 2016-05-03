@@ -104,21 +104,21 @@
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/直流标准源</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/直流电能表检定装置</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{1538AEF2-855A-4DC0-8E16-CAA30CB7D095}</Property>
-				<Property Name="Bld_version.build" Type="Int">296</Property>
+				<Property Name="Bld_version.build" Type="Int">302</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
-				<Property Name="Destination[0].destName" Type="Str">直流标准源.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/直流标准源/直流标准源.exe</Property>
+				<Property Name="Destination[0].destName" Type="Str">直流电能表检定装置.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/直流电能表检定装置/直流电能表检定装置.exe</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">支持目录</Property>
-				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/直流标准源/data</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/直流电能表检定装置/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/我的电脑/logo32x32x16.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{B800B63E-538C-4CDC-BF96-146EE2BDCC55}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{33EAC259-60BD-4C91-833D-8BCAA1736787}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].Container.applyInclusion" Type="Bool">true</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
@@ -175,7 +175,7 @@
 				<Property Name="TgtF_legalCopyright" Type="Str">版权 2015 深圳市星龙科技股份有限公司</Property>
 				<Property Name="TgtF_productName" Type="Str">DCSource</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{9277FE31-E296-4EE1-892E-A710C5BD2B34}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">直流标准源.exe</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">直流电能表检定装置.exe</Property>
 			</Item>
 			<Item Name="我的安装程序" Type="Installer">
 				<Property Name="Destination[0].name" Type="Str">DCSource</Property>
