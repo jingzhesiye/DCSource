@@ -108,7 +108,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{1538AEF2-855A-4DC0-8E16-CAA30CB7D095}</Property>
-				<Property Name="Bld_version.build" Type="Int">318</Property>
+				<Property Name="Bld_version.build" Type="Int">319</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">直流电能表检定装置.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/直流电能表检定装置/直流电能表检定装置.exe</Property>
